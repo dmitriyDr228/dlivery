@@ -1,0 +1,2 @@
+export const CALORIES_FATS = 8;
+export const CALORIES_PROTEIN_OR_CARBOHYDRATES = 4;
